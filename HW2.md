@@ -37,3 +37,19 @@ http://mdewin64.mde.state.md.us/ecollaboration/
 [espn]: http://espn.com
 [1]: http://www.youtube.com
 [Link itself]: http://weather.com
+
+This would be inline code `Dim sFrank As String`   
+```python
+s = "Python syntax highlighting"
+print s
+```
+|Name|Relationship|Age|
+|----|------------|---:|
+|Frank|Me|42|
+|Stacey|Wife|43|
+|Pam|Mom|68|
+|Frank Sr.|Dad|68|
+|Carol|Mom in law| 68|
+|Moose|Dog|9|
+
+

@@ -26,4 +26,5 @@ __bold underscore__
    This line should be separate but in same paragraph.  
    
 [inline-style link](http://mdewin64.mde.state.md.us/ecollaboration/)  
-[inline-style link with title](http://mdewin64.mde.state.md.us/ecollaboration/ "Page Frank Made")
+[inline-style link with title](http://mdewin64.mde.state.md.us/ecollaboration/ "Page Frank Made")  
+[relative reference to repository file](../../)

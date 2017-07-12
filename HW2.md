@@ -27,4 +27,13 @@ __bold underscore__
    
 [inline-style link](http://mdewin64.mde.state.md.us/ecollaboration/)  
 [inline-style link with title](http://mdewin64.mde.state.md.us/ecollaboration/ "Page Frank Made")  
-[relative reference to repository file](../../)
+[relative reference to repository file](../../)   
+http://mdewin64.mde.state.md.us/ecollaboration/
+
+[Reference Style Link][espn]  
+[Reference Style Link with number][1]  
+[Link itself]  
+
+[espn]: http://espn.com
+[1]: http://www.youtube.com
+[Link itself]: http://weather.com
